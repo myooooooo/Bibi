@@ -1,0 +1,5 @@
+{
+  "name": "Biblio IUT Dijon",
+  "description": "Une application web mobile pour la bibliothèque de l'IUT Dijon, facilitant la communication, la gestion des emprunts et l'accès aux informations d'affluence.",
+  "requestFramePermissions": []
+}
